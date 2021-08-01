@@ -3,14 +3,13 @@ body{
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 20px;
 	line-height: 30px;
-
 }
-
+<img style="float: left; margin: 0px 15px 15px 0px;" src="img/logo.png" width="100" />
 header{
 	background-color: #FF0000;
 	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 h1, h2{
@@ -25,9 +24,9 @@ header h1{
 }
 
 header img {
-    border-radius: 170px;
-    width: 300px;
+    width: 150px;
     border: 20px solid #FFFFFF;
+    
 }
 
 main {
